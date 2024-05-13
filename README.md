@@ -24,5 +24,5 @@ Technical Skills Gained:
 
  iv. Presentation of report by using conditional formatting, borders,relevant fonts etc.
 
- V.  Financial domain knowledge to include key performance indicator.
+ V.  Financial domain knowledge to include key performance indicator like Net sales, cost of goods sold (cogs), gross margin, GM %.
 
