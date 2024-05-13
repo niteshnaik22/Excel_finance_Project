@@ -14,7 +14,12 @@ Finance Report :
 
 Technical Skills Gained:
  i.  Extensive use of power query to clean and organize the data, stoarage saving techniques to get familiar with connections.
+
  ii. Understanding of primary and foriegn keys to build data model in Power Pivot.
+
  iii.Use case of DAX functions to create calculated columns, custom columns.
+
  iv. Presentation of report by using conditional formatting, borders,relevant fonts etc.
+
  V.  Financial domain knowledge to include key performance indicator.
+
